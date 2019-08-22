@@ -1,5 +1,5 @@
 import React from "react";
-import { withRouter, NavLink } from "react-router-dom";
+import { WithRouter, NavLink } from "react-router-dom";
 import { FirebaseContext } from "../firebase";
 
 function Header() {
